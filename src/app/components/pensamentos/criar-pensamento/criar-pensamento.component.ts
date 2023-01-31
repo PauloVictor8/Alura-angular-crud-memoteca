@@ -18,11 +18,9 @@ export class CriarPensamentoComponent implements OnInit {
   }
 
   criarPensamento() {
-    alert('Pensamento criado')
   }
 
   cancelarPensamento() {
-    alert('Pensamento cancelado')
   }
 
 }
