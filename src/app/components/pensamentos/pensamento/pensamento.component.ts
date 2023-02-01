@@ -1,3 +1,4 @@
+import { PensamentoService } from './pensamento.service';
 import { IPensamento } from './../pensamento';
 import { Component, Input, OnInit } from '@angular/core';
 
@@ -15,9 +16,10 @@ export class PensamentoComponent implements OnInit {
     modelo: 'modelo1'
   }
 
-  constructor() { }
+  constructor(private service: PensamentoService) { }
 
   ngOnInit(): void {
+    this.service.listar();
   }
 
   larguraPensamento(): string {
