@@ -7,18 +7,6 @@
       "modelo": "modelo2"
     },
     {
-      "id": 2,
-      "conteudo": "Eu odiava a Dora aventureira",
-      "autoria": "Vic",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 3,
-      "conteudo": "Eu gosto dos filmes da marvel",
-      "autoria": "Vic",
-      "modelo": "modelo1"
-    },
-    {
       "id": 4,
       "conteudo": "Eu gosto de trabalhar com front-end",
       "autoria": "Vic",
@@ -37,10 +25,10 @@
       "modelo": "modelo3"
     },
     {
-      "conteudo": "dsfsf",
-      "autoria": "sdfsdf",
+      "conteudo": "bolo de cenoura",
+      "autoria": "bolo",
       "modelo": "modelo1",
-      "id": 7
+      "id": 8
     }
   ]
 }
